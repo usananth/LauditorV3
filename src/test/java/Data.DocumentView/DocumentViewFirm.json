@@ -1,0 +1,124 @@
+[
+	{
+		"Comment": "TestCase 0.DocumentViewFirmAction_View",
+		"selectGroup1": "Blaine Miller Group",
+		"documentEdit": "Document View1 Renamed"
+	},
+	{
+		"Comment": "TestCase 1.DocumentViewFirmAction_Editinfo_DocuemntNameOnlySave",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1 Renamed",
+		"documentEdit": "Document View1"
+	},
+	{
+		"Comment": "TestCase 2.DocumentViewFirmAction_Editinfo_DocuemntNameOnlyCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"documentEdit": "Document is edit Cancel"
+	},
+	{
+		"Comment": "TestCase 3.DocumentViewFirmAction_Editinfo_DescriptionOnlySave",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"descriptionEdit": "Description Edit"
+	},
+	{
+		"Comment": "TestCase 4.DocumentViewFirmAction_Editinfo_DescriptionOnlyCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"descriptionEdit": "Description Edit"
+	},
+	{
+		"Comment": "TestCase 5.DocumentViewFirmAction_Editinfo_DocumentName_and_DescriptionSave",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"documentEdit": "Document View11",
+		"descriptionEdit": "Description Edit"
+	},
+	{
+		"Comment": "TestCase 6.DocumentViewFirmAction_Editinfo_DocumentName_and_DescriptionCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"documentEdit": "Document View11",
+		"descriptionEdit": "Description Edit"
+	},
+	{
+		"Comment": "TestCase 7.DocumentViewFirmAction_Editinfo_DocumentName_and_ExpirationDate",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"documentEdit": "Document View11"
+	},
+	{
+		"Comment": "TestCase 8.DocumentViewFirmAction_Editinfo_DocumentName_and_ExpirationDateCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"documentName": "Document View1",
+		"documentEdit": "Document View11",
+		"dateEdit": "30"
+	},
+	{
+		"Comment": "TestCase 9.DocumentViewFirmAction_DeleteAlertNo",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Edit Docuemnt"
+	},
+	{
+		"Comment": "TestCase 10.DocumentViewFirmAction_DeleteAlertNo",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Edited Document"
+	},
+	{
+		"Comment": "TestCase 11.DocumentViewFirmAction_DeleteAlerXButton",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Edited Document"
+	},
+	{
+		"Comment": "TestCase 12.DocumentViewFirmAction_Download_PopupOK",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Download Test"
+	},
+	{
+		"Comment": "TestCase 13.DocumentViewFirm_MergePDF",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Merge Test Miller"
+	},
+	{
+		"Comment": "TestCase 14.DocumentViewFirmAction_View_MergedAction_View",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Merge Test Miller"
+	},
+	{
+		"Comment": "TestCase 15.DocumentViewFirmAction_View_MergedAction_ViewXButton",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Merge Test Miller"
+	},
+	{
+		"Comment": "TestCase 16.DocumentViewFirmAction_View_MergedAction_Download",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Merge Test Miller"
+	},
+	{
+		"Comment": "TestCase 17.DocumentViewFirmAction_View_MergedAction_DeletePDF_PopupYes",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "MyTEST Merge"
+	},
+	{
+		"Comment": "TestCase 18.DocumentViewFirmAction_View_MergedAction_DeletePDF_PopupNo",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Merge Test Miller"
+	},
+	{
+		"Comment": "TestCase 19.DocumentViewFirmAction_View_MergedAction_DeletePDF_PopupXClose",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "My Test",
+		"documentName": "Merge Test Miller"
+	}
+]

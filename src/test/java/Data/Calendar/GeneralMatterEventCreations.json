@@ -1,0 +1,537 @@
+[
+	{
+		"Comment": "TestCase 0.Calendar_GMatter_Task_Consultation & Repetition -> Daily ",
+		"MatterName": "GST Return",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "17",
+		"Eventmonth": "August",
+		"Eventyear": "2023",
+		"EStartTime": "14:00",
+		"EEndTime": "14:30",
+		"Repetition": "Daily",
+		"EventName": "2:45 PM GST Return - Consultation",
+		"AssertCheck": "Test Matter 01 - Consultation"
+	},
+	{
+		"Comment": "TestCase 1.Calendar_GMatter_Task_Consultation & Repetition -> Weekly",
+		"MatterName": "Test Matter 01",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "11",
+		"Eventmonth": "August",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Weekly",
+		"EventName": "11:00 AM Test Matter 01 - Consultation",
+		"AssertCheck": "Test Matter 01 - Consultation"
+	},
+	{
+		"Comment": "TestCase 2.Calendar_GMatter_Task_Consultation & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "12",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 3.Calendar_GMatter_Task_Consultation & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "13",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 4.Calendar_GMatter_Task_Consultation & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2024",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 5.Calendar_GMatter_Task_DraftAgreements & Repetition -> Daily ",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 6.Calendar_GMatter_Task_DraftAgreements & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "11",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 7.Calendar_GMatter_Task_DraftAgreements & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "12",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 8.Calendar_GMatter_Task_DraftAgreements & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "13",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 9.Calendar_GMatter_Task_DraftAgreements & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2024",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 10.Calendar_GMatter_Task_FillingWithAuthorities & Repetition -> Daily ",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 11.Calendar_GMatter_Task_FillingWithAuthorities & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "11",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 12.Calendar_GMatter_Task_FillingWithAuthorities & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "12",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 13.Calendar_GMatter_Task_FillingWithAuthorities & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "13",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 14.Calendar_GMatter_Task_FillingWithAuthorities & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2024",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 15.Calendar_GMatter_Task_MeetingsWithClient & Repetition -> Daily ",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2027",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 16.Calendar_GMatter_Task_MeetingsWithClient & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "11",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 17.Calendar_GMatter_Task_MeetingsWithClient & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "12",
+		"Eventmonth": "December",
+		"Eventyear": "2025",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 18.Calendar_GMatter_Task_MeetingsWithClient & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "13",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 19.Calendar_GMatter_Task_MeetingsWithClient & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2024",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 20.Calendar_GMatter_Task_PrepareAnnualFillings & Repetition -> Daily ",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2024",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 21.Calendar_GMatter_Task_PrepareAnnualFillings & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "11",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 22.Calendar_GMatter_Task_PrepareAnnualFillings & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "12",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 23.Calendar_GMatter_Task_PrepareAnnualFillings & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "13",
+		"Eventmonth": "December",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 24.Calendar_GMatter_Task_PrepareAnnualFillings & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "10",
+		"Eventmonth": "December",
+		"Eventyear": "2024",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 25.Calendar_GMatter_Task_Consultation_AllDay & Repetition -> Daily",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 26.Calendar_GMatter_Task_Consultation_AllDay & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 27.Calendar_GMatter_Task_Consultation_AllDay & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 28.Calendar_GMatter_Task_Consultation_AllDay & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 29.Calendar_GMatter_Task_Consultation_AllDay & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 30.Calendar_GMatter_Task_DraftAggrements_AllDay & Repetition -> Daily",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 31.Calendar_GMatter_Task_DraftAggrements_AllDay & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 32.Calendar_GMatter_Task_DraftAggrements_AllDay & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 33.Calendar_GMatter_Task_DraftAggrements_AllDay & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 34.Calendar_GMatter_Task_DraftAggrements_AllDay & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Draft agreements",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 35.Calendar_GMatter_Task_FillingWithAuthorities_AllDay & Repetition -> Daily",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 36.Calendar_GMatter_Task_FillingWithAuthorities_AllDay & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 37.Calendar_GMatter_Task_FillingWithAuthorities_AllDay & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 38.Calendar_GMatter_Task_FillingWithAuthorities_AllDay & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 39.Calendar_GMatter_Task_FillingWithAuthorities_AllDay & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Filling with authorities",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 40.Calendar_GMatter_Task_MeetingwithClient_AllDay & Repetition -> Daily",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 41.Calendar_GMatter_Task_MeetingwithClient_AllDay & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 42.Calendar_GMatter_Task_MeetingwithClient_AllDay & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 43.Calendar_GMatter_Task_MeetingwithClient_AllDay & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 44.Calendar_GMatter_Task_MeetingwithClient_AllDay & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 45.Calendar_GMatter_Task_PrepareAnnulaFillings_AllDay & Repetition -> Daily",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Daily"
+	},
+	{
+		"Comment": "TestCase 46.Calendar_GMatter_Task_PrepareAnnulaFillings_AllDay & Repetition -> Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Weekly"
+	},
+	{
+		"Comment": "TestCase 46.Calendar_GMatter_Task_PrepareAnnulaFillings_AllDay & Repetition -> Bi-Weekly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Bi-Weekly"
+	},
+	{
+		"Comment": "TestCase 48.Calendar_GMatter_Task_PrepareAnnulaFillings_AllDay & Repetition -> Monthly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Monthly"
+	},
+	{
+		"Comment": "TestCase 49.Calendar_GMatter_Task_PrepareAnnulaFillings_AllDay & Repetition -> Yearly",
+		"MatterName": "Nginx-General",
+		"SubjectTaskName": "Prepare annual fillings",
+		"Eventdate": "15",
+		"Eventmonth": "March",
+		"Eventyear": "2024",
+		"Repetition": "Yearly"
+	},
+	{
+		"Comment": "TestCase 100.Calendar",
+		"MatterName": "Test Matter 01",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "12",
+		"Eventmonth": "August",
+		"Eventyear": "2023",
+		"EStartTime": "10:00",
+		"Repetition": "Weekly",
+		"EventName": "10:00 AM Test Matter 01 - Consultation"
+	},
+	{
+		"Comment": "TestCase 101.Calendar Week View",
+		"MatterName": "Test Matter 01",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "18",
+		"Eventmonth": "August",
+		"Eventyear": "2023",
+		"EStartTime": "19:00",
+		"Repetition": "Weekly",
+		"Eventweek": "Aug 13 - Aug 19",
+		"EventName": "7:00 PM Test Matter 01 - Consultation"
+	},
+	{
+		"Comment": "TestCase 52.Calendar Week View_CalendarClick",
+		"MatterName": "Test Matter 01",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "18",
+		"Eventmonth": "August",
+		"Eventyear": "2023"
+	}
+]

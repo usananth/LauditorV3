@@ -1,0 +1,15 @@
+[
+	{
+		"Comment": "TestCase 114.Calendar_GMatter_Task_Consultation & Repetition",
+		"MatterName": "Test GM 6",
+		"SubjectTaskName": "Meeting with client",
+		"Eventdate": "11",
+		"Eventmonth": "September",
+		"Eventyear": "2023",
+		"EStartTime": "11:00",
+		"EEndTime": "11:30",
+		"Repetition": "Daily",
+		"EventName": "11:00 AM Test GM 6 - Meeting with client",
+		"AssertCheck": "Test GM 6 - Meeting with client"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"Comment": "TestCase 0.Calendar_GMatter_Task_Consultation & Repetition",
+		"MatterName": "General Matter 5",
+		"SubjectTaskName": "Consultation",
+		"Eventdate": "10",
+		"Eventmonth": "Sepetmber",
+		"Eventyear": "2023",
+		"EStartTime": "06:30",
+		"Repetition": "Daily",
+		"EventName": "6:30 AM General Matter 5 - Consultation",
+		"AssertName": "General Matter 5 - Consultation"
+	}
+]

@@ -1,0 +1,492 @@
+[
+	{
+		"comment": "0.meetingNameAppearOrNot",
+		"matterName": "Criminal Case 15",
+		"meetingName": "Criminal Case 15 - Creating legal briefs"
+	},
+	{
+		"comment": "1.descriptionTextinViewDetails",
+		"matterName": "Criminal Case 15",
+		"descpText": "Hello Worlds"
+	},
+	{
+		"comment": "2.documentNameCheckingOnDocuments",
+		"matterName": "Criminal Case 15",
+		"documentName": "AnathKumar GH 1"
+	},
+	{
+		"comment": "3.documentRemoveOnDocuments",
+		"matterName": "Criminal Case 15",
+		"documentRemove1": "AnathKumar GH 1",
+		"documentRemove2": "Family law GH 1"
+	},
+	{
+		"comment": "4.removeDocumentOnLeftSideWithCancel",
+		"matterName": "Criminal Case 15",
+		"documentRemove1": "Vengadesh GH 1",
+		"documentRemove2": "Alliance TM 2"
+	},
+	
+	{
+		"comment": "5.selectDocumentOnRightSideWithCancel",
+		"matterName": "Criminal Case 15",
+		"documentSelect1": "Neela GH 1",
+		"documentSelect2": "Dustin GH 1"
+	},
+	{
+		"comment": "6.selectDocumentOnRightSideWithSave",
+		"matterName": "Criminal Case 15",
+		"documentSelect1": "Neela GH 1",
+		"documentSelect2": "Dustin GH 1"
+	},
+	{
+		"comment": "7.removeDocumentOnLeftSideWithSave",
+		"matterName": "Criminal Case 15",
+		"documentRemove1": "Neela GH 1",
+		"documentRemove2": "Dustin GH 1"
+	},
+	{
+		"comment": "8.selectAllClickCancel",
+		"matterName": "Criminal Case 15"
+	},
+	{
+		"comment": "9.selectAllClickSave",
+		"matterName": "Criminal Case 15"
+	},
+	{
+		"comment": "10.unSelectAllClickSave",
+		"matterName": "Criminal Case 15"
+	},
+	{
+		"comment": "11.unSelectAllClickCancel",
+		"matterName": "Criminal Case 15"
+	},
+	{
+		"comment": "12.browseAndUploadFilesAndCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MatterModuleImages"
+	},
+	{
+		"comment": "13.browseandUploadFilesandRemoveDocumentWithCancelButton",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MatterModuleImages",
+		"removeFile1": "GH1Img.jpeg",
+		"removeFile2": "GH4PDF.pdf"
+	},
+	{
+		"comment": "14.browseandUploadFilesandRemoveDocumentWithNext",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MatterModuleImages",
+		"removeFile1": "GH1Img.jpeg",
+		"removeFile2": "GH4PDF.pdf"
+	},
+	{
+		"comment": "15.uploadFilesAndEnableWithSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MatterModuleImages"
+	},
+	{
+		"comment": "16.browseandUploadFilestAndEnableWithCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\Duplicate"
+	},
+	{
+		"comment": "17.browseandUploadFilestAndDisableWithSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\Duplicate"
+	},
+	{
+		"comment": "18.browseandUploadFilestAndDisableWithCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\Duplicate"
+	},
+	{
+		"comment": "19.uploadFilesandRemoveMultipleDocumentAndEnableWithSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"removeFile1": "LADPNG.png",
+		"removeFile2": "PLCSV.csv",
+		"removeFile3": "PLWORD.rtf"
+	},
+	{
+		"comment": "20.uploadFilesandRemoveMultipleDocumentAndEnableWithCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"removeFile1": "LADPNG.png",
+		"removeFile2": "PLCSV.csv"
+	},
+	{
+		"comment": "21.uploadFilesandRemoveMultipleDocumentAndDisableWithSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"removeFile1": "LADText.txt",
+		"removeFile2": "PLWORD.rtf"
+	},
+	{
+		"comment": "22.uploadFilesandRemoveMultipleDocumentAndDisableWithCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"removeFile1": "LADText.txt",
+		"removeFile2": "PLWORD.rtf"
+	},
+	{
+		"comment": "23.uploadFilesandEnableWithEditAllandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "pdfFilesEdit1244",
+		"descp0": "Re edit the text",
+		"date0": " 1 ",
+		"documName1": "pdfFilesEdit1323",
+		"descp1": "Modify the test",
+		"date1": " 2 ",
+		"documName2": "pdfFilesEdit1424",
+		"descp2": "Add the document",
+		"date2": " 6 ",
+		"documName3": "pdfFilesEdit1523",
+		"descp3": "document are added",
+		"date3": " 7 "
+	},
+	{
+		"comment": "24.uploadFilesandEnableWithEditAllandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "imageFileUpload",
+		"descp0": "document names",
+		"date0": " 11 ",
+		"documName1": "imageFileUpload63",
+		"descp1": "Files Uploaded",
+		"date1": " 15 ",
+		"documName2": "imageFileUpload64",
+		"descp2": "Successfully added",
+		"date2": " 17 ",
+		"documName3": "imageFileUpload65",
+		"descp3": "readded the documents ",
+		"date3": " 19 "
+	},
+	{
+		"comment": "25.uploadFilesandEnableWithEditDocumNameFieldOnlyandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "CSVFiles1",
+		"documName1": "CSVFiles12",
+		"documName2": "CSVFiles13",
+		"documName3": "CSVFiles14"
+	},
+	{
+		"comment": "26.uploadFilesandEnableWithEditDocumNameFieldOnlyandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "PPtFilesNew",
+		"documName1": "PPtFilesNew1",
+		"documName2": "PPtFilesNew2",
+		"documName3": "PPtFilesNew3"
+	},
+	{
+		"comment": "27.uploadFilesandEnableWithEditDescriptionFieldOnlyandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Document added",
+		"descp1": "Check the document names",
+		"descp2": "Pass the text through automation",
+		"descp3": "Test Case pass"
+	},
+	{
+		"comment": "28.uploadFilesandEnableWithEditDescriptionFieldOnlyandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Modify the description",
+		"descp1": "Successfully edited",
+		"descp2": "recheck the names",
+		"descp3": "Files uploading"
+	},
+	{
+		"comment": "29.uploadFilesandEnableWithexpirateDateFieldOnlyandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"date0": " 21 ",
+		"date1": " 26 ",
+		"date2": " 6 ",
+		"date3": " 18 "
+	},
+	{
+		"comment": "30.uploadFilesandEnableWithexpirateDateFieldOnlyandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"date0": " 13 ",
+		"date1": " 8 ",
+		"date2": " 23 ",
+		"date3": " 3 "
+	},
+	{
+		"comment": "31.uploadFilesandEnableWithcombinedDocumentNamesandDateandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "TextFilesLA1",
+		"date0": " 21 ",
+		"documName1": "ImgFIlesLocal2",
+		"date1": " 18 ",
+		"documName2": "ReAddImageFIlesLoc2",
+		"date2": " 2 ",
+		"documName3": "AugFiles",
+		"date3": " 13 "
+	},
+	{
+		"comment": "32.uploadFilesandEnableWithcombinedDocumentNamesandDateandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "PPtxFiles1",
+		"date0": " 8 ",
+		"documName1": "PPtxFiles12",
+		"date1": " 28 ",
+		"documName2": "PPtxFiles13",
+		"date2": " 23 ",
+		"documName3": "PPtxFiles14",
+		"date3": " 17 "
+	},
+	{
+		"comment": "33.uploadFilesandEnableWithcombinedDocumentNamesandDescriptionandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "DocPDfImage",
+		"descp0": "Welcome to digicoffer",
+		"documName1": "DocPDfImage1",
+		"descp1": "Hello Lauditor customer",
+		"documName2": "DocPDfImage2",
+		"descp2": "Pdf Files merged",
+		"documName3": "DocPDfImage3",
+		"descp3": "Files loading"
+	},
+	{
+		"comment": "34.uploadFilesandEnableWithcombinedDocumentNamesandDescriptionandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "MergeDocFiles1",
+		"descp0": "Verify the documents",
+		"documName1": "MergeDocFiles12",
+		"descp1": "check the document using automation",
+		"documName2": "MergeDocFiles123",
+		"descp2": "still verify the testcase",
+		"documName3": "MergeDocFiles14",
+		"descp3": "Still uploading the files"
+	},
+	{
+		"comment": "35.uploadFilesandEnableWithcombinedDateandDescriptionandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Verify the documents",
+		"date0": " 12 ",
+		"descp1": "Modify the names",
+		"date1": " 28 ",
+		"descp2": "Document name reedit",
+		"date2": " 16 ",
+		"descp3": "text verifications",
+		"date3": " 7 "
+	},
+	{
+		"comment": "36.uploadFilesandEnableWithcombinedDateandDescriptionandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Edit description",
+		"date0": " 1 ",
+		"descp1": "document files correction",
+		"date1": " 28 ",
+		"descp2": "names verifications",
+		"date2": " 12 ",
+		"descp3": "Files checking ",
+		"date3": " 17 "
+	},
+	{
+		"comment": "37.uploadFilesandDisableWithEditAllandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "pdfFilesEdit1244",
+		"descp0": "Re edit the text",
+		"date0": " 1 ",
+		"documName1": "pdfFilesEdit1323",
+		"descp1": "Modify the test",
+		"date1": " 2 ",
+		"documName2": "pdfFilesEdit1424",
+		"descp2": "Add the document",
+		"date2": " 6 ",
+		"documName3": "pdfFilesEdit1523",
+		"descp3": "document are added",
+		"date3": " 7 "
+	},
+	{
+		"comment": "38.uploadFilesandDisableWithEditAllandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "imageFileUpload",
+		"descp0": "document names",
+		"date0": " 11 ",
+		"documName1": "imageFileUpload63",
+		"descp1": "Files Uploaded",
+		"date1": " 15 ",
+		"documName2": "imageFileUpload64",
+		"descp2": "Successfully added",
+		"date2": " 17 ",
+		"documName3": "imageFileUpload65",
+		"descp3": "readded the documents ",
+		"date3": " 19 "
+	},
+	{
+		"comment": "39.uploadFilesandDisableWithEditDocumNameFieldOnlyandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "CSVFiles1",
+		"documName1": "CSVFiles12",
+		"documName2": "CSVFiles13",
+		"documName3": "CSVFiles14"
+	},
+	{
+		"comment": "40.uploadFilesandDisableWithEditDocumNameFieldOnlyandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "PPtFilesNew",
+		"documName1": "PPtFilesNew1",
+		"documName2": "PPtFilesNew2",
+		"documName3": "PPtFilesNew3"
+	},
+	{
+		"comment": "41.uploadFilesandDisableWithEditDescriptionFieldOnlyandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Document added",
+		"descp1": "Check the document names",
+		"descp2": "Pass the text through automation",
+		"descp3": "Test Case pass"
+	},
+	{
+		"comment": "42.uploadFilesandDisableWithEditDescriptionFieldOnlyandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Modify the description",
+		"descp1": "Successfully edited",
+		"descp2": "recheck the names",
+		"descp3": "Files uploading"
+	},
+	{
+		"comment": "43.uploadFilesandDisableWithexpirateDateFieldOnlyandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"date0": " 21 ",
+		"date1": " 26 ",
+		"date2": " 6 ",
+		"date3": " 18 "
+	},
+	{
+		"comment": "44.uploadFilesandDisableWithexpirateDateFieldOnlyandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"date0": " 13 ",
+		"date1": " 8 ",
+		"date2": " 23 ",
+		"date3": " 3 "
+	},
+	{
+		"comment": "45.uploadFilesandDisableWithcombinedDocumentNamesandDateandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "TextFilesLA1",
+		"date0": " 21 ",
+		"documName1": "ImgFIlesLocal2",
+		"date1": " 18 ",
+		"documName2": "ReAddImageFIlesLoc2",
+		"date2": " 2 ",
+		"documName3": "AugFiles",
+		"date3": " 13 "
+	},
+	{
+		"comment": "46.uploadFilesandDisableWithcombinedDocumentNamesandDateandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "PPtxFiles1",
+		"date0": " 8 ",
+		"documName1": "PPtxFiles12",
+		"date1": " 28 ",
+		"documName2": "PPtxFiles13",
+		"date2": " 23 ",
+		"documName3": "PPtxFiles14",
+		"date3": " 17 "
+	},
+	{
+		"comment": "47.uploadFilesandDisableWithcombinedDocumentNamesandDescriptionandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "DocPDfImage",
+		"descp0": "Welcome to digicoffer",
+		"documName1": "DocPDfImage1",
+		"descp1": "Hello Lauditor customer",
+		"documName2": "DocPDfImage2",
+		"descp2": "Pdf Files merged",
+		"documName3": "DocPDfImage3",
+		"descp3": "Files loading"
+	},
+	{
+		"comment": "48.uploadFilesandDisableWithcombinedDocumentNamesandDescriptionandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"documName0": "MergeDocFiles1",
+		"descp0": "Verify the documents",
+		"documName1": "MergeDocFiles12",
+		"descp1": "check the document using automation",
+		"documName2": "MergeDocFiles123",
+		"descp2": "still verify the testcase",
+		"documName3": "MergeDocFiles14",
+		"descp3": "Still uploading the files"
+	},
+	{
+		"comment": "49.uploadFilesandDisableWithcombinedDateandDescriptionandSave",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Verify the documents",
+		"date0": " 12 ",
+		"descp1": "Modify the names",
+		"date1": " 28 ",
+		"descp2": "Document name reedit",
+		"date2": " 16 ",
+		"descp3": "text verifications",
+		"date3": " 7 "
+	},
+	{
+		"comment": "50.uploadFilesandDisableWithcombinedDateandDescriptionandCancel",
+		"matterName": "Criminal Case 15",
+		"filePath": "C:\\Users\\Vengadesh\\Documents\\Automate Image\\MultipleCheck",
+		"count": "4",
+		"descp0": "Edit description",
+		"date0": " 1 ",
+		"descp1": "document files correction",
+		"date1": " 28 ",
+		"descp2": "names verifications",
+		"date2": " 12 ",
+		"descp3": "Files checking ",
+		"date3": " 17 "
+	}
+]

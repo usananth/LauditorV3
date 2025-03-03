@@ -1,0 +1,115 @@
+[
+	{
+		"Comment": "TestCase 0.DocuemntMergePDFFirms",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"searchDoc1":"DocumentOne",
+		"searchDoc2":"DocumentTwo",
+		"newPdfName":"NewMerge"
+		
+	},
+	
+	{
+		"Comment": "TestCase 1.DocuemntMergePDFSelectDocumntsCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"searchDoc1":"DocumentOne",
+		"searchDoc2":"DocumentTwo"
+		
+		
+	},
+	{
+		"Comment": "TestCase 2.DocuemntMergePDFFirmsAddMoreDocuments",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"selectGroup3": "My Test",
+		"searchDoc1":"samplepdf1",
+		"searchDoc2":"samplepdf2",
+		"searchDoc3":"samplepdf3",
+		"newPdfName":"MergeMultiple1"
+		
+	},
+	{
+		"Comment": "TestCase 3.DocuemntMergePDFFirmsAddMoreDocumentsCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"selectGroup3": "My Test",
+		"searchDoc1":"samplepdf1",
+		"searchDoc2":"samplepdf2",
+		"searchDoc3":"samplepdf3",
+		"newPdfName":"MergeMultiple1"
+		
+	},
+	{
+		"Comment": "TestCase 4.DocuemntMergePDFFirmsShowBookmarks",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"searchDoc1":"DocumentOne",
+		"searchDoc2":"DocumentTwo",
+		"newPdfName":"NewMerge3",
+		"preambleText":"This is example for Preamble Text",
+		"preamTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+		
+	},
+	{
+		"Comment": "TestCase 5.DocuemntMergePDFFirmsPreamblesAddMoreDocuments",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"selectGroup3": "My Test",
+		"searchDoc1":"samplepdf1",
+		"searchDoc2":"samplepdf2",
+		"searchDoc3":"samplepdf3",
+		"newPdfName":"NewMerge4",
+		"preambleText":"This is example for Preamble Text",
+		"preamTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+		
+	},
+	{
+		"Comment": "TestCase 6.DocuemntMergePDFFirmsPreamblesAddMoreDocumentsCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"selectGroup3": "My Test",
+		"searchDoc1":"samplepdf1",
+		"searchDoc2":"samplepdf2",
+		"searchDoc3":"samplepdf3",
+		"newPdfName":"NewMerge4",
+		"preambleText":"This is example for Preamble Text",
+		"preamTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+		
+	},
+	{
+		"Comment": "TestCase 7.DocuemntMergePDFFirmsShowBookmarks",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"selectGroup3": "My Test",
+		"searchDoc1":"samplepdf1",
+		"searchDoc2":"samplepdf2",
+		"newPdfName":"NewMerge7",
+		"BookTitle":"Title of Bookmark",
+		"BookName":"Name of the Bookmark",
+		"BookTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+		"preambleText":"This is example for Preamble Text",
+		"preamTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"BookTitle1":"Title of Bookmark Two",
+		"BookName1":"Name of the Bookmark Two",
+		"BookTextarea1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+	},
+	{
+		"Comment": "TestCase 8.DocuemntMergePDFFirmsShowBookmarksCancel",
+		"selectGroup1": "Blaine Miller Group",
+		"selectGroup2": "Dev Environmental Testing",
+		"selectGroup3": "My Test",
+		"searchDoc1":"samplepdf1",
+		"searchDoc2":"samplepdf2",
+		"newPdfName":"NewMerge7",
+		"BookTitle":"Title of Bookmark",
+		"BookName":"Name of the Bookmark",
+		"BookTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+		"preambleText":"This is example for Preamble Text",
+		"preamTextarea":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+		"BookTitle1":"Title of Bookmark Two",
+		"BookName1":"Name of the Bookmark Two",
+		"BookTextarea1":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+	}
+		
+]

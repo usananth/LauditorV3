@@ -1,0 +1,29 @@
+[
+		
+    {
+        "email":"newOne@mail.com",
+        "fname":"Alan",
+        "lname":"Donald",
+        "cemail":"newOne@mail.com",
+        "country":"india",
+		"addGroup1":"Group Create by Script",
+		"addGroup2":"Test Group by automation",
+		"addGroup3":"Staging Testing",
+		"addGroup4":"Android-Legal"
+        
+    },
+    {
+        "email":"azure.ananth@gmail.com",
+        "fname":"",
+        "lname":"",
+        "cemail":"",
+        "country":"",
+		"addGroup1":"Group Create by Script",
+		"addGroup2":"Test Group by automation",
+		"addGroup3":"Staging Testing",
+		"addGroup4":"Android-Legaal"
+        
+    }
+    
+	
+]
